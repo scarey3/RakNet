@@ -28,7 +28,7 @@
 
 /*
     Addition and doubling formulas using Extended Twisted Edwards coordinates from
-    Hisil–Wong–Carter–Dawson paper "Twisted Edwards Curves Revisited" (Asiacrypt 2008)
+    Hisilï¿½Wongï¿½Carterï¿½Dawson paper "Twisted Edwards Curves Revisited" (Asiacrypt 2008)
 
     w-MOF scalar multiplication from http://www.sdl.hitachi.co.jp/crypto/mof/index-e.html
 

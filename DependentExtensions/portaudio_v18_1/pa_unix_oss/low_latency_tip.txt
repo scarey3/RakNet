@@ -4,7 +4,7 @@ Subject: Re: [music-dsp] coding realtime guitar efx on a "pc"
 Date: Saturday, June 30, 2001 8:19 AM
 
 
-Andrè,
+Andrï¿½,
 you are solving your problem the wrong way:
 you need to use a single threaded solution which does this:
 
@@ -79,7 +79,7 @@ On Sat, 30 Jun 2001, you wrote:
 > I/O process a time slice every 20 ms).
 > 
 > -- 
-> André Majorel <amajorel@teaser.fr>
+> Andrï¿½ Majorel <amajorel@teaser.fr>
 > http://www.teaser.fr/~amajorel/
 > 
 > dupswapdrop -- the music-dsp mailing list and website: subscription info,
